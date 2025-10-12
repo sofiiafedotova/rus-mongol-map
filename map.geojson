@@ -294,6 +294,34 @@
         "type": "Point"
       },
       "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цзун Модоный орос"
+      },
+      "geometry": {
+        "coordinates": [
+          106.387592,
+          48.685468
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нарасутайн орос"
+      },
+      "geometry": {
+        "coordinates": [
+          48.705019,
+          106.758386
+        ],
+        "type": "Point"
+      },
+      "id": 22
     }
   ]
 }
