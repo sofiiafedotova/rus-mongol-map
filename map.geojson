@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Улан-Батор"
+        "name": "Улан-Батор",
+        "image": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg"
       },
       "geometry": {
         "coordinates": [
