@@ -322,6 +322,19 @@
         "type": "Point"
       },
       "id": 22
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Чойбалсан"
+      },
+      "geometry": {
+        "coordinates": [
+          114.52649655371556,
+          48.072210132859254
+        ],
+        "type": "Point"
+      },23
     }
   ]
 }
