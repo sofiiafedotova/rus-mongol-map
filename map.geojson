@@ -7,11 +7,8 @@
         "name": "Улан-Батор",
         "photo1": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg",
         "photo2": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg",
-        "photos": "<img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:300px; margin-bottom:5px;'><br><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:300px;'>",
-"photo": "<div style='max-width:280px; text-align:center;'>
-  <img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:90%; height:auto; margin-bottom:5px; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.2);'><br>
-  <img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:90%; height:auto; border-radius:6px; box-shadow:0 0 4px rgba(0,0,0,0.2);'>
-</div>"
+        "photos": "<img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:300px; margin-bottom:5px;'><br><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg' style='width:300px;'>"
+
 
 
       },
