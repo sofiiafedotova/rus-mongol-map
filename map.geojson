@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Нарасутайн орос"
+        "name": "Нарасутайн орос/Нарасатуй*"
       },
       "geometry": {
         "coordinates": [
@@ -231,6 +231,19 @@
         "coordinates": [
           106.90024560511569,
           47.914886065861566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Улястай"
+      },
+      "geometry": {
+        "coordinates": [
+          96.87435134187324,
+          47.73972974602964
         ],
         "type": "Point"
       }
