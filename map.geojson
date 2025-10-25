@@ -251,7 +251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ханза/Хаза"
+        "name": "Ханза/Хаза*"
       },
       "geometry": {
         "coordinates": [
@@ -264,7 +264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Хунда"
+        "name": "Хондон/Хунда*"
       },
       "geometry": {
         "coordinates": [
@@ -277,7 +277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Цзун Модоный орос"
+        "name": "Цзун Модоный орос*"
       },
       "geometry": {
         "coordinates": [
@@ -303,7 +303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Шабартуй"
+        "name": "Шабартуй*"
       },
       "geometry": {
         "coordinates": [
@@ -329,7 +329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Шарагол"
+        "name": "Шарагол*"
       },
       "geometry": {
         "coordinates": [
