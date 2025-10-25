@@ -14,6 +14,19 @@
         "type": "Point"
       }
     },
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "Баяндун"
+      },
+      "geometry": {
+        "coordinates": [
+          113.3844136025032,
+          49.246609455814905
+        ],
+        "type": "Point"
+      }
+    },
     {
       "type": "Feature",
       "properties": {
