@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Бильчир/Бэлчир"
+        "name": "Бильчир/Бэлчир*"
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Булуктай"
+        "name": "Булуктай*"
       },
       "geometry": {
         "coordinates": [
@@ -56,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Бухулэйн-Орос/Южный Бакулай"
+        "name": "Бухулэйн-Орос/Южный Бакулай*"
       },
       "geometry": {
         "coordinates": [
@@ -95,7 +95,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Дмитриевка/Дмитровка"
+        "name": "Дмитриевка/Дмитровка*"
       },
       "geometry": {
         "coordinates": [
@@ -108,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Жар-Галантои/Чжиргаланту"
+        "name": "Жар-Галантои/Жангалантуй/Чжиргаланту*"
       },
       "geometry": {
         "coordinates": [
@@ -121,7 +121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Заимка Лушникова"
+        "name": "Заимка Лушникова*"
       },
       "geometry": {
         "coordinates": [
@@ -134,7 +134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Заимка Петрова"
+        "name": "Заимка Петрова*"
       },
       "geometry": {
         "coordinates": [
@@ -147,7 +147,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ибицик"
+        "name": "Ибицик/Ибицих*"
       },
       "geometry": {
         "coordinates": [
@@ -160,12 +160,38 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Корнаковка"
+        "name": "Корнаковка*"
       },
       "geometry": {
         "coordinates": [
           106.96014,
           49.632506
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кудара/Худэри*"
+      },
+      "geometry": {
+        "coordinates": [
+          107.56988,
+          49.734687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мандал"
+      },
+      "geometry": {
+        "coordinates": [
+          106.70752755613009,
+          48.80110410393865
         ],
         "type": "Point"
       }
@@ -218,19 +244,6 @@
         "coordinates": [
           107.19772,
           49.915419
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Худэри"
-      },
-      "geometry": {
-        "coordinates": [
-          107.56988,
-          49.734687
         ],
         "type": "Point"
       }
