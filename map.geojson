@@ -4,229 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Улан-Батор",
-      "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/09.jpg'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/00.jpg'></div>"
-
+        "name": "Алтан-Булак"
       },
       "geometry": {
         "coordinates": [
-          106.90024560511569,
-          47.914886065861566
+          106.48498,
+          50.298989
         ],
         "type": "Point"
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Дзунхара",
-        "photo": "  "
-      },
-      "geometry": {
-        "coordinates": [
-          106.46033729356276,
-          48.85183032572439
-        ],
-        "type": "Point"
-      },
-      "id": 25
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Дархан"
-      },
-      "geometry": {
-        "coordinates": [
-          105.93515906653164,
-          49.49132425300155
-        ],
-        "type": "Point"
-      },
-      "id": 2
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Заимка Лушникова"
-      },
-      "geometry": {
-        "coordinates": [
-          107.19497,
-          49.374773
-        ],
-        "type": "Point"
-      },
-      "id": 3
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Заимка Петрова"
-      },
-      "geometry": {
-        "coordinates": [
-          107.22793,
-          49.378349
-        ],
-        "type": "Point"
-      },
-      "id": 4
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Корнаковка"
-      },
-      "geometry": {
-        "coordinates": [
-          106.96014,
-          49.632506
-        ],
-        "type": "Point"
-      },
-      "id": 5
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Шарагол"
-      },
-      "geometry": {
-        "coordinates": [
-          107.43255,
-          49.6874
-        ],
-        "type": "Point"
-      },
-      "id": 6
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Бильчир/Бэлчир"
-      },
-      "geometry": {
-        "coordinates": [
-          107.42706,
-          49.71005
-        ],
-        "type": "Point"
-      },
-      "id": 7
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Булуктай"
-      },
-      "geometry": {
-        "coordinates": [
-          107.41882,
-          49.75177
-        ],
-        "type": "Point"
-      },
-      "id": 8
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Шамар/Шаморы"
-      },
-      "geometry": {
-        "coordinates": [
-          106.21582,
-          50.122779
-        ],
-        "type": "Point"
-      },
-      "id": 9
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ибицик"
-      },
-      "geometry": {
-        "coordinates": [
-          106.61682,
-          50.071904
-        ],
-        "type": "Point"
-      },
-      "id": 10
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Сухэ-Батор"
-      },
-      "geometry": {
-        "coordinates": [
-          106.20652985135928,
-          50.236935205501425
-        ],
-        "type": "Point"
-      },
-      "id": 11
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Бухулэйн-Орос/Южный Бакулай"
-      },
-      "geometry": {
-        "coordinates": [
-          106.87019,
-          49.479947
-        ],
-        "type": "Point"
-      },
-      "id": 12
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Жар-Галантои/Чжиргаланту"
-      },
-      "geometry": {
-        "coordinates": [
-          107.46826,
-          49.877822
-        ],
-        "type": "Point"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ханза/Хаза"
-      },
-      "geometry": {
-        "coordinates": [
-          107.19772,
-          49.915419
-        ],
-        "type": "Point"
-      },
-      "id": 14
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Дмитриевка/Дмитровка"
-      },
-      "geometry": {
-        "coordinates": [
-          107.38037,
-          49.589793
-        ],
-        "type": "Point"
-      },
-      "id": 15
+      }
     },
     {
       "type": "Feature",
@@ -239,78 +25,150 @@
           49.638732
         ],
         "type": "Point"
-      },
-      "id": 16
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Алтан-Булак"
+        "name": "Бильчир/Бэлчир"
       },
       "geometry": {
         "coordinates": [
-          106.48498,
-          50.298989
+          107.42706,
+          49.71005
         ],
         "type": "Point"
-      },
-      "id": 17
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Шабартуй"
+        "name": "Булуктай"
       },
       "geometry": {
         "coordinates": [
-          107.20733,
-          49.775499
+          107.41882,
+          49.75177
         ],
         "type": "Point"
-      },
-      "id": 18
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Худэри"
+        "name": "Бухулэйн-Орос/Южный Бакулай"
       },
       "geometry": {
         "coordinates": [
-          107.56988,
-          49.734687
+          106.87019,
+          49.479947
         ],
         "type": "Point"
-      },
-      "id": 19
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Хунда"
+        "name": "Дархан"
       },
       "geometry": {
         "coordinates": [
-          106.64978,
-          50.230955
+          105.93515906653164,
+          49.49132425300155
         ],
         "type": "Point"
-      },
-      "id": 20
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Цзун Модоный орос"
+        "name": "Дзунхара"
       },
       "geometry": {
         "coordinates": [
-          106.387592,
-          48.685468
+          106.46033729356276,
+          48.85183032572439
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дмитриевка/Дмитровка"
       },
-      "id": 21
+      "geometry": {
+        "coordinates": [
+          107.38037,
+          49.589793
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Жар-Галантои/Чжиргаланту"
+      },
+      "geometry": {
+        "coordinates": [
+          107.46826,
+          49.877822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Лушникова"
+      },
+      "geometry": {
+        "coordinates": [
+          107.19497,
+          49.374773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Петрова"
+      },
+      "geometry": {
+        "coordinates": [
+          107.22793,
+          49.378349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ибицик"
+      },
+      "geometry": {
+        "coordinates": [
+          106.61682,
+          50.071904
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Корнаковка"
+      },
+      "geometry": {
+        "coordinates": [
+          106.96014,
+          49.632506
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -323,8 +181,85 @@
           48.705019
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сухэ-Батор"
       },
-      "id": 22
+      "geometry": {
+        "coordinates": [
+          106.20652985135928,
+          50.236935205501425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Улан-Батор"
+      },
+      "geometry": {
+        "coordinates": [
+          106.90024560511569,
+          47.914886065861566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ханза/Хаза"
+      },
+      "geometry": {
+        "coordinates": [
+          107.19772,
+          49.915419
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Худэри"
+      },
+      "geometry": {
+        "coordinates": [
+          107.56988,
+          49.734687
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хунда"
+      },
+      "geometry": {
+        "coordinates": [
+          106.64978,
+          50.230955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цзун Модоный орос"
+      },
+      "geometry": {
+        "coordinates": [
+          106.387592,
+          48.685468
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -337,8 +272,46 @@
           48.072210132859254
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шабартуй"
       },
-      "id": 23
+      "geometry": {
+        "coordinates": [
+          107.20733,
+          49.775499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шамар/Шаморы"
+      },
+      "geometry": {
+        "coordinates": [
+          106.21582,
+          50.122779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шарагол"
+      },
+      "geometry": {
+        "coordinates": [
+          107.43255,
+          49.6874
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
