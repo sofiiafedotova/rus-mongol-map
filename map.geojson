@@ -17,12 +17,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Баян голыин орос"
+        "name": "Бильчир/Бэлчир"
       },
       "geometry": {
         "coordinates": [
-          107.0082,
-          49.638732
+          107.42706,
+          49.71005
         ],
         "type": "Point"
       }
@@ -30,12 +30,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Бильчир/Бэлчир"
+        "name": "Бугант"
       },
       "geometry": {
         "coordinates": [
-          107.42706,
-          49.71005
+          107.28227925383736,
+          49.470754609082285
         ],
         "type": "Point"
       }
