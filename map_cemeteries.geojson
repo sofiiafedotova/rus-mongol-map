@@ -1,10 +1,23 @@
 {
   "type": "FeatureCollection",
   "features": [
+{
+      "type": "Feature",
+      "properties": {
+        "name": "Русское кладбище в Улан-Баторе"
+      },
+      "geometry": {
+        "coordinates": [
+          106.962799,
+          47.922948
+        ],
+        "type": "Point"
+      }
+    },
     {
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Дархан"
+        "name": "Русское кладбище в Дархане"
       },
       "geometry": {
         "coordinates": [
@@ -17,7 +30,7 @@
    {
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Дзунхара"
+        "name": "Русское кладбище в Дзунхаре"
       },
       "geometry": {
         "coordinates": [
@@ -30,33 +43,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Сайшанд"
+        "name": "Русское кладбище в Шаморе"
       },
       "geometry": {
         "coordinates": [
-          110.16975,
-          44.9027277778
+          106.19464,
+          50.101662
         ],
         "type": "Point"
       }
-    },
+    },   
     {
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Улан-Батор"
-      },
-      "geometry": {
-        "coordinates": [
-          106.962799,
-          47.922948
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Кладбище: Чойболсан (1)"
+        "name": "Русское кладбище в Чойбалсане (1)"
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Чойболсан (2)"
+        "name": "Русское кладбище в Чойбалсане (2)"
       },
       "geometry": {
         "coordinates": [
@@ -79,15 +79,15 @@
         "type": "Point"
       }
     },
-    {
+{
       "type": "Feature",
       "properties": {
-        "name": "Кладбище: Шамора"
+        "name": "Русское кладбище в Сайшанде"
       },
       "geometry": {
         "coordinates": [
-          106.19464,
-          50.101662
+          110.16975,
+          44.9027277778
         ],
         "type": "Point"
       }
