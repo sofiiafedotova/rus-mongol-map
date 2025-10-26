@@ -4,7 +4,7 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Улан-Баторе"
+        "name": "Русское кладбище<br>в Улан-Баторе"
       },
       "geometry": {
         "coordinates": [
