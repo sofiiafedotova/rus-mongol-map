@@ -22,17 +22,6 @@
         "coordinates": [107.46033729356276, 47.85183032572439]
       },
       "id": 1
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Пример кладбища 3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "id": 1
     }
   ]
 }
