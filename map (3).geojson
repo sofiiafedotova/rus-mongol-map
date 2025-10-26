@@ -6,9 +6,10 @@
       "properties": {
         "name": "Пример кладбища 1",
         "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-house.png",
-        "iconSize": ["40, 40"],
-        "iconAnchor": ["20, 40"],
-        "popupAnchor": ["0, -40"]
+        "iconSize": [40, 40],
+        "iconAnchor": [20, 40],
+        "popupAnchor": [0, -40],
+        "tooltipAnchor": [20, 0]
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Пример кладбища 2"
+        "name": "Пример кладбища 2",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-house.png",
+        "iconSize": [40, 40],
+        "iconAnchor": [20, 40],
+        "popupAnchor": [0, -40],
+        "tooltipAnchor": [20, 0]
       },
       "geometry": {
         "type": "Point",
@@ -29,3 +35,4 @@
     }
   ]
 }
+
