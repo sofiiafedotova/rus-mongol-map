@@ -350,6 +350,18 @@
           49.6874
         ],
         "type": "Point"
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эрдэнет*"
+      },
+      "geometry": {
+        "coordinates": [
+          104.07644938520798,
+          49.054945452601466
+        ],
+        "type": "Point"
       }
     }
   ]
