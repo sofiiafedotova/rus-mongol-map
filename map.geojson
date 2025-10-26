@@ -327,41 +327,44 @@
       }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "name": "Шамар/Шаморы"
-      },
-      "geometry": {
-        "coordinates": [
-          106.21582,
-          50.122779
-        ],
-        "type": "Point"
-      },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Шарагол*"
-      },
-      "geometry": {
-        "coordinates": [
-          107.43255,
-          49.6874
-        ],
-        "type": "Point"
-      },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Эрдэнет*"
-      },
-      "geometry": {
-        "coordinates": [
-          104.07644938520798,
-          49.054945452601466
-        ],
-        "type": "Point"
-      }
-    }
-  ]
+  "type": "Feature",
+  "properties": {
+    "name": "Шамар/Шаморы"
+  },
+  "geometry": {
+    "coordinates": [
+      106.21582,
+      50.122779
+    ],
+    "type": "Point"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Шарагол*"
+  },
+  "geometry": {
+    "coordinates": [
+      107.43255,
+      49.6874
+    ],
+    "type": "Point"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Эрдэнет*"
+  },
+  "geometry": {
+    "coordinates": [
+      104.07644938520798,
+      49.054945452601466
+    ],
+    "type": "Point"
+  }
 }
+ ]
+}
+
