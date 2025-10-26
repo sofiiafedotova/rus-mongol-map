@@ -1,3 +1,3 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Спасите"},
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Пример кладбища 1"},
 "geometry":{"coordinates":[107.90024560511569,46.914886065861566],"type":"Point"},"id":0},
-{"type":"Feature","properties":{"name":"Помогите"},"geometry":{"coordinates":[107.46033729356276,47.85183032572439],"type":"Point"},"id":1}]}
+{"type":"Feature","properties":{"name":"Пример кладбища 2"},"geometry":{"coordinates":[107.46033729356276,47.85183032572439],"type":"Point"},"id":1}]}
