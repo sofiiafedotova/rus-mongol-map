@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Дархан"
+      },
+      "geometry": {
+        "coordinates": [
+          106.962799,
+          47.922948
+        ],
+        "type": "Point"
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Дзунхара"
+      },
+      "geometry": {
+        "coordinates": [
+          106.439483,
+          48.859383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Сайшанд"
+      },
+      "geometry": {
+        "coordinates": [
+          110.16975,
+          44.9027277778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Улан-Батор"
+      },
+      "geometry": {
+        "coordinates": [
+          106.962799,
+          47.922948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Чойболсан (1)"
+      },
+      "geometry": {
+        "coordinates": [
+          114.50066,
+          48.082464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Чойболсан (2)"
+      },
+      "geometry": {
+        "coordinates": [
+          114.579304,
+          48.07647
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кладбище: Шамора"
+      },
+      "geometry": {
+        "coordinates": [
+          106.19464,
+          50.101662
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
