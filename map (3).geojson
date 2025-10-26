@@ -1,10 +1,31 @@
-{"type":"FeatureCollection",
-"features":[
-{"type":"Feature","properties":{"name":"Пример кладбища 1",
-    iconurl: "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/00.jpg", 
-    iconsize: "40,40",
-    iconanchor:"20,40",
-    popupanchor:"0,-40"
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пример кладбища 1",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/00.jpg",
+        "iconSize": [40, 40],
+        "iconAnchor": [20, 40],
+        "popupAnchor": [0, -40]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.90024560511569, 46.914886065861566]
+      },
+      "id": 0
     },
-"geometry":{"coordinates":[107.90024560511569,46.914886065861566],"type":"Point"},"id":0},
-{"type":"Feature","properties":{"name":"Пример кладбища 2"},"geometry":{"coordinates":[107.46033729356276,47.85183032572439],"type":"Point"},"id":1}]}
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пример кладбища 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.46033729356276, 47.85183032572439]
+      },
+      "id": 1
+    }
+  ]
+}
