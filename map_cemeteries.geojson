@@ -17,12 +17,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Дархане"
+        "name": "Русское кладбище<br>в Дархане"
       },
       "geometry": {
         "coordinates": [
-          106.962799,
-          47.922948
+          105.935115,
+          49.501317
         ],
         "type": "Point"
       }
@@ -30,7 +30,7 @@
    {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Дзунхаре"
+        "name": "Русское кладбище<br>в Дзунхаре"
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Шаморе"
+        "name": "Русское кладбище<br>в Шаморе"
       },
       "geometry": {
         "coordinates": [
@@ -56,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Чойбалсане (1)"
+        "name": "Русское кладбище<br>в Чойбалсане (1)"
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Чойбалсане (2)"
+        "name": "Русское кладбище<br>в Чойбалсане (2)"
       },
       "geometry": {
         "coordinates": [
@@ -82,7 +82,7 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище в Сайшанде"
+        "name": "Русское кладбище<br>в Сайшанде"
       },
       "geometry": {
         "coordinates": [
