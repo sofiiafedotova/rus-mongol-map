@@ -27,8 +27,13 @@
       "type": "Feature",
       "properties": {
         "name": "Пример кладбища 3"
-      }
-      "id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
+      },
+      "id": 1
+    }
   ]
 }
 
