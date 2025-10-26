@@ -1,10 +1,7 @@
 {"type":"FeatureCollection",
 "features":[
-{
-"type":"Feature",
-"properties":
-{"name":"Пример кладбища 1",
-iconurl="https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-house.png", 
+{"type":"Feature","properties":{"name":"Пример кладбища 1",
+    iconurl="https://rus-mongol.imli.ru/wp-content/uploads/2025/10/00.jpg", 
     iconsize="40,40",
     iconanchor="20,40",
     popupanchor="0,-40"
