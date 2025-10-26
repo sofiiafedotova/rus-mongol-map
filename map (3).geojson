@@ -7,7 +7,7 @@
 iconurl="https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-house.png", 
     iconsize="40,40",
     iconanchor="20,40",
-    popupanchor="0,-40",
+    popupanchor="0,-40"
     },
 "geometry":{"coordinates":[107.90024560511569,46.914886065861566],"type":"Point"},"id":0},
 {"type":"Feature","properties":{"name":"Пример кладбища 2"},"geometry":{"coordinates":[107.46033729356276,47.85183032572439],"type":"Point"},"id":1}]}
