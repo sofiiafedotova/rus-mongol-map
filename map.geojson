@@ -238,7 +238,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Улан-Батор"
+        "name": "Улан-Батор",
+"iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+"iconSize": [50, 50],
+"iconanchor": [20, 40],
+"popupanchor": [0, -40]
       },
       "geometry": {
         "coordinates": [
@@ -303,7 +307,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Чойбалсан"
+        "name": "Чойбалсан",
+"iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+"iconSize": [50, 50],
+"iconanchor": [20, 40],
+"popupanchor": [0, -40]
       },
       "geometry": {
         "coordinates": [
