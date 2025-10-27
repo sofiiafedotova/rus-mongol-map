@@ -212,6 +212,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Наранбулаг"
+      },
+      "geometry": {
+        "coordinates": [
+          113.372370,
+          49.244615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Нарасутайн орос/Нарасатуй*"
       },
       "geometry": {
