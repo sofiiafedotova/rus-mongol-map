@@ -64,7 +64,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище<br>в Чойбалсане (1)"
+        "name": "Русское кладбище<br>в Чойбалсане (1)",
+"link": "",
+"photo": ""
       },
       "geometry": {
         "coordinates": [
@@ -77,7 +79,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище<br>в Чойбалсане (2)"
+        "name": "Русское кладбище<br>в Чойбалсане (2)",
+"link": "",
+"photo": ""
       },
       "geometry": {
         "coordinates": [
@@ -90,7 +94,9 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище<br>в Сайшанде"
+        "name": "Русское кладбище<br>в Сайшанде",
+"link": "",
+"photo": ""
       },
       "geometry": {
         "coordinates": [
