@@ -4,7 +4,11 @@
 {
       "type": "Feature",
       "properties": {
-        "name": "Русское кладбище<br>в Улан-Баторе"
+        "name": "Русское кладбище<br>в Улан-Баторе",
+"link": "<a href='https://github.com/sofiiafedotova/rus-mongol-map' target='_blank'>Фотоальбом →</a>",
+"photo": "<div class='photo-row'>
+  <img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png'>
+</div>"
       },
       "geometry": {
         "coordinates": [
