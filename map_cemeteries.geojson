@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Улан-Баторе",
+        "name_en": "Russian cemetery<br>in Ulaanbaatar",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-ulan-batore/' target='_blank'>Фотоальбом →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-ulan-batore/' target='_blank'>Photo album →</a>",
 "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/kladbishhe-ub-9-scaled.jpg'></div>"
       },
       "geometry": {
@@ -20,7 +22,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Дархане",
+        "name_en": "Russian cemetery<br>in Darkhan",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-darhane/' target='_blank'>Фотоальбом →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-darhane/' target='_blank'>Photo album →</a>",
 "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/kladbishhe-darhan-4-scaled.jpg'></div>"
       },
       "geometry": {
@@ -35,7 +39,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Дзунхаре",
+        "name_en": "Russian cemetery<br>in Züünkharaa",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-dzunhare/'>Фотоальбом →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-dzunhare/'>Photo album →</a>",
 "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/kladbishhe-dzunhara-13-scaled.jpg'></div>"
       },
       "geometry": {
@@ -50,7 +56,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Шаморе",
+        "name_en": "Russian cemetery<br>in Shamora",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-shamore/' target='_blank'>Фотоальбом →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkoe-kladbishhe-v-shamore/' target='_blank'>Photo album →</a>",
 "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2025/10/kladbishhe-shamora-4-scaled.jpg'></div>"
       },
       "geometry": {
@@ -65,7 +73,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Чойбалсане (1)",
+        "name_en": "Russian cemetery<br>in Choibalsan (1)",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Фотоальбом (ссылки) →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Photo album (links) →</a>",
 "photo": " "
       },
       "geometry": {
@@ -80,7 +90,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Чойбалсане (2)",
+        "name_en": "Russian cemetery<br>in Choibalsan (2)",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Фотоальбом (ссылки) →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Photo album (links) →</a>",
 "photo": " "
       },
       "geometry": {
@@ -95,7 +107,9 @@
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Сайшанде",
+        "name_en": "Russian cemetery<br>in Sainshand",
 "link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Фотоальбом (ссылки) →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-russkie-kladbishha-v-sajshande-i-chojbalsane-ssylki/' target='_blank'>Photo album (links) →</a>",
 "photo": " "
       },
       "geometry": {
