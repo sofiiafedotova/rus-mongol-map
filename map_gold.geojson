@@ -1,0 +1,326 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Алтан-Булак",
+        "name_en": "Altanbulag"
+      },
+      "geometry": {
+        "coordinates": [106.48498, 50.298989],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бильчир/Бэлчир*",
+        "name_en": "Bil'chir/Belchir*"
+      },
+      "geometry": {
+        "coordinates": [107.42706, 49.71005],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бугант",
+        "name_en": "Bugant"
+      },
+      "geometry": {
+        "coordinates": [107.28227925383736, 49.470754609082285],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Булуктай*",
+        "name_en": "Buluktai*"
+      },
+      "geometry": {
+        "coordinates": [107.41882, 49.75177],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бухулэйн-Орос/Южный Бакулай*",
+        "name_en": "Büheleyn Oros/Southern Bakulai*"
+      },
+      "geometry": {
+        "coordinates": [106.87019, 49.479947],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дархан",
+        "name_en": "Darkhan"
+      },
+      "geometry": {
+        "coordinates": [105.93515906653164, 49.49132425300155],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дзунхара",
+        "name_en": "Züünkharaa"
+      },
+      "geometry": {
+        "coordinates": [106.46033729356276, 48.85183032572439],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дмитриевка/Дмитровка*",
+        "name_en": "Dmitrievka/Dmitrovka*"
+      },
+      "geometry": {
+        "coordinates": [107.38037, 49.589793],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Жар-Галантои/Жангалантуй/<br>Чжиргаланту*",
+        "name_en": "Zhar-Galantoi/Zhangalantui/Chzhirgalantu*"
+      },
+      "geometry": {
+        "coordinates": [107.46826, 49.877822],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Лушникова*",
+        "name_en": "Zaimka Lushnikova*"
+      },
+      "geometry": {
+        "coordinates": [107.19497, 49.374773],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Петрова*",
+        "name_en": "Zaimka Petrova*"
+      },
+      "geometry": {
+        "coordinates": [107.22793, 49.378349],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ибицик/Ибицих*",
+        "name_en": "Ibitsik/Ibitsikh*"
+      },
+      "geometry": {
+        "coordinates": [106.61682, 50.071904],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Корнаковка*",
+        "name_en": "Kornakovka*"
+      },
+      "geometry": {
+        "coordinates": [106.96014, 49.632506],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кудара/Худэри*",
+        "name_en": "Kudara/Khuderi*"
+      },
+      "geometry": {
+        "coordinates": [107.56988, 49.734687],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мандал",
+        "name_en": "Mandal"
+      },
+      "geometry": {
+        "coordinates": [106.70752755613009, 48.80110410393865],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Наранбулаг",
+        "name_en": "Naranbulag"
+      },
+      "geometry": {
+        "coordinates": [113.37237, 49.244615],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нарасутайн орос/Нарасатуй*",
+        "name_en": "Narasatayn Oros/Narasatui*"
+      },
+      "geometry": {
+        "coordinates": [106.758386, 48.705019],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сухэ-Батор",
+        "name_en": "Sükhbaatar"
+      },
+      "geometry": {
+        "coordinates": [106.20652985135928, 50.236935205501425],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Улан-Батор",
+        "name_en": "Ulaanbaatar",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconSize": [50, 50],
+        "iconanchor": [20, 40],
+        "popupanchor": [0, -40]
+      },
+      "geometry": {
+        "coordinates": [106.90024560511569, 47.914886065861566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Улястай",
+        "name_en": "Uliastai"
+      },
+      "geometry": {
+        "coordinates": [96.87435134187324, 47.73972974602964],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ханза/Хаза*",
+        "name_en": "Khanza/Khaza*"
+      },
+      "geometry": {
+        "coordinates": [107.19772, 49.915419],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хондон/Хунда*",
+        "name_en": "Khondon/Khundа*"
+      },
+      "geometry": {
+        "coordinates": [106.64978, 50.230955],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цзун Модоный орос*",
+        "name_en": "Tszun Modonyi Oros*"
+      },
+      "geometry": {
+        "coordinates": [106.387592, 48.685468],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чойбалсан",
+        "name_en": "Choibalsan",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconSize": [50, 50],
+        "iconanchor": [20, 40],
+        "popupanchor": [0, -40]
+      },
+      "geometry": {
+        "coordinates": [114.52649655371556, 48.072210132859254],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шабартуй*",
+        "name_en": "Shabartui*"
+      },
+      "geometry": {
+        "coordinates": [107.20733, 49.775499],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шамар/Шаморы",
+        "name_en": "Shamar/Shamory"
+      },
+      "geometry": {
+        "coordinates": [106.21582, 50.122779],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шарагол*",
+        "name_en": "Sharagol*"
+      },
+      "geometry": {
+        "coordinates": [107.43255, 49.6874],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эрдэнет",
+        "name_en": "Erdenet",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconSize": [50, 50],
+        "iconanchor": [20, 40],
+        "popupanchor": [0, -40]
+      },
+      "geometry": {
+        "coordinates": [104.07644938520798, 49.054945452601466],
+        "type": "Point"
+      }
+    }
+  ]
+}
+
