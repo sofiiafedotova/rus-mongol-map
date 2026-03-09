@@ -103,7 +103,7 @@
         "type": "Point"
       }
     },
-{
+    {
       "type": "Feature",
       "properties": {
         "name": "Русское кладбище<br>в Сайшанде",
@@ -116,6 +116,23 @@
         "coordinates": [
           110.16975,
           44.9027277778
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ульхуный Майхан",
+        "name_en": Ulhanii Mayhan",
+"link": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-ulhunyj-majhan/' target='_blank'>Фотоальбом →</a>",
+"link_en": "<a href='https://rus-mongol.imli.ru/map/fotoalbom-ulhunyj-majhan/' target='_blank'>Photo album →</a>",
+"photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/01.jpg'></div>"
+      },
+      "geometry": {
+        "coordinates": [  
+          112.54526830255692,
+          49.462510144026844
         ],
         "type": "Point"
       }
