@@ -130,34 +130,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Заимка Лушникова*",
-        "name_en": "Zaimka Lushnikova*",
-        "link": " ",
-        "link_en": " ",
-        "photo": " "
-      },
-      "geometry": {
-        "coordinates": [107.19497, 49.374773],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Заимка Петрова*",
-        "name_en": "Zaimka Petrova*",
-        "link": " ",
-        "link_en": " ",
-        "photo": " "
-      },
-      "geometry": {
-        "coordinates": [107.22793, 49.378349],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ибицик/Ибицих*",
         "name_en": "Ibitsik/Ibitsikh*",
         "link": " ",
