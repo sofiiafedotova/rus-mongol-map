@@ -5,7 +5,10 @@
       "type": "Feature",
       "properties": {
         "name": "Алтан-Булак",
-        "name_en": "Altanbulag"
+        "name_en": "Altanbulag",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.48498, 50.298989],
@@ -16,7 +19,10 @@
       "type": "Feature",
       "properties": {
         "name": "Бильчир/Бэлчир*",
-        "name_en": "Bil'chir/Belchir*"
+        "name_en": "Bil'chir/Belchir*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.42706, 49.71005],
@@ -27,7 +33,10 @@
       "type": "Feature",
       "properties": {
         "name": "Бугант",
-        "name_en": "Bugant"
+        "name_en": "Bugant",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.28227925383736, 49.470754609082285],
@@ -38,7 +47,10 @@
       "type": "Feature",
       "properties": {
         "name": "Булуктай*",
-        "name_en": "Buluktai*"
+        "name_en": "Buluktai*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.41882, 49.75177],
@@ -49,7 +61,10 @@
       "type": "Feature",
       "properties": {
         "name": "Бухулэйн-Орос/Южный Бакулай*",
-        "name_en": "Büheleyn Oros/Southern Bakulai*"
+        "name_en": "Büheleyn Oros/Southern Bakulai*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.87019, 49.479947],
@@ -60,7 +75,10 @@
       "type": "Feature",
       "properties": {
         "name": "Дархан",
-        "name_en": "Darkhan"
+        "name_en": "Darkhan",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [105.93515906653164, 49.49132425300155],
@@ -71,7 +89,10 @@
       "type": "Feature",
       "properties": {
         "name": "Дзунхара",
-        "name_en": "Züünkharaa"
+        "name_en": "Züünkharaa",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.46033729356276, 48.85183032572439],
@@ -82,7 +103,10 @@
       "type": "Feature",
       "properties": {
         "name": "Дмитриевка/Дмитровка*",
-        "name_en": "Dmitrievka/Dmitrovka*"
+        "name_en": "Dmitrievka/Dmitrovka*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.38037, 49.589793],
@@ -93,7 +117,10 @@
       "type": "Feature",
       "properties": {
         "name": "Жар-Галантои/Жангалантуй/<br>Чжиргаланту*",
-        "name_en": "Zhar-Galantoi/Zhangalantui/Chzhirgalantu*"
+        "name_en": "Zhar-Galantoi/Zhangalantui/Chzhirgalantu*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.46826, 49.877822],
@@ -104,7 +131,10 @@
       "type": "Feature",
       "properties": {
         "name": "Заимка Лушникова*",
-        "name_en": "Zaimka Lushnikova*"
+        "name_en": "Zaimka Lushnikova*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.19497, 49.374773],
@@ -115,7 +145,10 @@
       "type": "Feature",
       "properties": {
         "name": "Заимка Петрова*",
-        "name_en": "Zaimka Petrova*"
+        "name_en": "Zaimka Petrova*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.22793, 49.378349],
@@ -126,7 +159,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ибицик/Ибицих*",
-        "name_en": "Ibitsik/Ibitsikh*"
+        "name_en": "Ibitsik/Ibitsikh*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.61682, 50.071904],
@@ -137,7 +173,10 @@
       "type": "Feature",
       "properties": {
         "name": "Корнаковка*",
-        "name_en": "Kornakovka*"
+        "name_en": "Kornakovka*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.96014, 49.632506],
@@ -148,7 +187,10 @@
       "type": "Feature",
       "properties": {
         "name": "Кудара/Худэри*",
-        "name_en": "Kudara/Khuderi*"
+        "name_en": "Kudara/Khuderi*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.56988, 49.734687],
@@ -159,7 +201,10 @@
       "type": "Feature",
       "properties": {
         "name": "Мандал",
-        "name_en": "Mandal"
+        "name_en": "Mandal",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.70752755613009, 48.80110410393865],
@@ -170,7 +215,10 @@
       "type": "Feature",
       "properties": {
         "name": "Наранбулаг",
-        "name_en": "Naranbulag"
+        "name_en": "Naranbulag",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [113.37237, 49.244615],
@@ -181,7 +229,10 @@
       "type": "Feature",
       "properties": {
         "name": "Нарасутайн орос/Нарасатуй*",
-        "name_en": "Narasatayn Oros/Narasatui*"
+        "name_en": "Narasatayn Oros/Narasatui*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.758386, 48.705019],
@@ -193,9 +244,9 @@
       "properties": {
         "name": "Русское подворье в Дархатской степи*",
         "name_en": "Russian settlement in Darkhat steppe*",
-"link": "<a href='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg' target='_blank'>Фотоальбом →</a>",
-"link_en": "<a href='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg' target='_blank'>Photo album →</a>",
-"photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg'></div>"
+        "link": "<a href='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg  ' target='_blank'>Фотоальбом →</a>",
+        "link_en": "<a href='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg  ' target='_blank'>Photo album →</a>",
+        "photo": "<div class='photo-row'><img src='https://rus-mongol.imli.ru/wp-content/uploads/2026/03/darhat.jpg  '></div>"
       },
       "geometry": {
         "coordinates": [99.49944210055351, 51.16775347878828],
@@ -206,7 +257,10 @@
       "type": "Feature",
       "properties": {
         "name": "Сухэ-Батор",
-        "name_en": "Sükhbaatar"
+        "name_en": "Sükhbaatar",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.20652985135928, 50.236935205501425],
@@ -218,10 +272,13 @@
       "properties": {
         "name": "Улан-Батор",
         "name_en": "Ulaanbaatar",
-        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png  ",
         "iconSize": [50, 50],
         "iconanchor": [20, 40],
-        "popupanchor": [0, -40]
+        "popupanchor": [0, -40],
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.90024560511569, 47.914886065861566],
@@ -232,7 +289,10 @@
       "type": "Feature",
       "properties": {
         "name": "Улястай",
-        "name_en": "Uliastai"
+        "name_en": "Uliastai",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [96.87435134187324, 47.73972974602964],
@@ -243,7 +303,10 @@
       "type": "Feature",
       "properties": {
         "name": "Ханза/Хаза*",
-        "name_en": "Khanza/Khaza*"
+        "name_en": "Khanza/Khaza*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.19772, 49.915419],
@@ -254,7 +317,10 @@
       "type": "Feature",
       "properties": {
         "name": "Хондон/Хунда*",
-        "name_en": "Khondon/Khundа*"
+        "name_en": "Khondon/Khundа*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.64978, 50.230955],
@@ -265,7 +331,10 @@
       "type": "Feature",
       "properties": {
         "name": "Цзун Модоный орос*",
-        "name_en": "Tszun Modonyi Oros*"
+        "name_en": "Tszun Modonyi Oros*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.387592, 48.685468],
@@ -277,10 +346,13 @@
       "properties": {
         "name": "Чойбалсан",
         "name_en": "Choibalsan",
-        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png  ",
         "iconSize": [50, 50],
         "iconanchor": [20, 40],
-        "popupanchor": [0, -40]
+        "popupanchor": [0, -40],
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [114.52649655371556, 48.072210132859254],
@@ -291,7 +363,10 @@
       "type": "Feature",
       "properties": {
         "name": "Шабартуй*",
-        "name_en": "Shabartui*"
+        "name_en": "Shabartui*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.20733, 49.775499],
@@ -302,7 +377,10 @@
       "type": "Feature",
       "properties": {
         "name": "Шамар/Шаморы",
-        "name_en": "Shamar/Shamory"
+        "name_en": "Shamar/Shamory",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [106.21582, 50.122779],
@@ -313,7 +391,10 @@
       "type": "Feature",
       "properties": {
         "name": "Шарагол*",
-        "name_en": "Sharagol*"
+        "name_en": "Sharagol*",
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [107.43255, 49.6874],
@@ -325,10 +406,13 @@
       "properties": {
         "name": "Эрдэнет",
         "name_en": "Erdenet",
-        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png",
+        "iconUrl": "https://rus-mongol.imli.ru/wp-content/uploads/2025/10/map-city.png  ",
         "iconSize": [50, 50],
         "iconanchor": [20, 40],
-        "popupanchor": [0, -40]
+        "popupanchor": [0, -40],
+        "link": "",
+        "link_en": "",
+        "photo": ""
       },
       "geometry": {
         "coordinates": [104.07644938520798, 49.054945452601466],
@@ -337,4 +421,3 @@
     }
   ]
 }
-
