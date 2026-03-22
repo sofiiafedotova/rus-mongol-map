@@ -170,6 +170,40 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Воробьева*",
+        "name_en": "Zaimka Vorobyova*",
+        "link": " ",
+        "link_en": " ",
+        "photo": " "
+      },
+      "geometry": {
+        "coordinates": [
+          104.91416,
+          48.966105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Заимка Таракановская*",
+        "name_en": "Zaimka Tarakanovskaya*",
+        "link": " ",
+        "link_en": " ",
+        "photo": " "
+      },
+      "geometry": {
+        "coordinates": [
+          108.80462,
+          49.33002
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
